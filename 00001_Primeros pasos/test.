@@ -1,4 +1,4 @@
-- name: Se completó la tabla
+- name: Se respondieron las preguntas
   keys:
     participantes:
       match: .*
