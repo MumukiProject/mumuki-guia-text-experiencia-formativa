@@ -1,4 +1,4 @@
-Vas a diseñar una formación en Pensamiento Computacional que te sirva para tu trabajo cotidiano. En esta sección completarás cada parte utilizando el formato que mejor se adapte a tus necesidades. Las preguntas que deberás responder son:
+Vas a diseñar una formación en Pensamiento Computacional que te sirva para tu trabajo cotidiano. En esta sección vas a completar cada parte utilizando el formato que mejor se adapte a tus necesidades. Las preguntas que deberás responder son:
  
  * ¿A quién va a estar dirigida la formación?
  * ¿De cuánto será la duración total y cuántos encuentros pensás que te llevará?

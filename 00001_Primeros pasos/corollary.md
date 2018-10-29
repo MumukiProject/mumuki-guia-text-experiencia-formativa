@@ -1,0 +1,1 @@
+De ahora en más cuando digamos _estudiante_ nos estaremos refiriendo a l@s participantes de la experiencia formativa que vas a desarrollar.
