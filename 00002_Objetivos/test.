@@ -1,4 +1,4 @@
-- name: Se escribieron los objetivos
+- name: Se escribieron los verbos
   keys:
     primer_verbo:
       match: .*
