@@ -1,4 +1,4 @@
-- name: Se escribieron los verbos
+- name: Se completaron los verbos
   keys:
     primer_verbo:
       match: .*
