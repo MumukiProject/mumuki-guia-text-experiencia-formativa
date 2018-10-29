@@ -1,4 +1,4 @@
-- name: Se completó la tabla
+- name: Se completaron las metáforas
   keys:
     corazon:
       match: .*
